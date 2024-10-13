@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @tailwind image; */
+
+ /* :root {
+  --background: #ffffff;
+  --foreground: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: rgb(164, 216, 220);
+    --foreground: #ffffff;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+ }  */
+
+ /* ye 1st cooding h (it mate pk) ki */
+
+/* .custom-image{
+   background-image: url("./puplic/Images/project_02.jpg");
+} */
+
